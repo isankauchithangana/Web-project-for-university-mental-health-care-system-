@@ -23,7 +23,6 @@
             <input type="text" name="lname" placeholder="Last name" required>
           </div>
         </div>
-
         <div class="field input">
           <label>Email Address</label>
           <input type="text" name="email" placeholder="Enter your email" required>
@@ -44,9 +43,9 @@
       <div class="link">Already signed up? <a href="admin_login.php">Login now</a></div>
     </section>
   </div>
+
   <script src="admin-javascript/pass-show-hide.js"></script>
   <script src="admin-javascript/signup.js"></script>
-        
 
 </body>
 </html>
